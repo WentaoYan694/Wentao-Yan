@@ -1,4 +1,3 @@
-# Name: Wentao Yan , ID: 948783320, UPI: wyan132
 # Program description:
 # - Column: stores one column of the board and supports adding a piece / checking if full.
 # - GameBoard: manages the 2D grid (as a list of Column objects) and prints the board.
